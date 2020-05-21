@@ -1,1 +1,1 @@
-geojson
+`reference.geojson` contains  the ground-truth samples collected through [GEE](https://earthengine.google.com/) in the first part of the [notebook](https://github.com/acoiman/lulc_zamora_1986_2016/blob/master/accuracy_assessment/notebook/reference_data.ipynb).
