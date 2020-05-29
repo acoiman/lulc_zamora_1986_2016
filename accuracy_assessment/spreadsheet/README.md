@@ -1,1 +1,1 @@
-spreadsheet
+This spreadsheet was used to calculate the pixel-based error matrix and the area-based error matrix. The spreadsheet template was taken from https://arset.gsfc.nasa.gov/land/webinars/18adv-land-classification.
