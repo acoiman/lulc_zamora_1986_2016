@@ -7,7 +7,8 @@
         "CLASS_NAME": "Inland waters",
         "SUP_HA": 2279.34,
         "fill": "#00ccf2ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -1501,7 +1502,8 @@
         "CLASS_NAME": "Scrub and/or herbaceous vegetation associations",
         "SUP_HA": 45993.52,
         "fill": "#a6ff80ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -58773,7 +58775,8 @@
         "CLASS_NAME": "Heterogeneous agricultural areas",
         "SUP_HA": 4112.68,
         "fill": "#ffe6a6ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61503,7 +61506,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 33.76,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -61789,7 +61793,8 @@
         "CLASS_NAME": "Inland waters",
         "SUP_HA": 397.93,
         "fill": "#00ccf2ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -62555,7 +62560,8 @@
         "CLASS_NAME": "Heterogeneous agricultural areas",
         "SUP_HA": 1450.39,
         "fill": "#ffe6a6ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -64837,7 +64843,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 109.31,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65511,7 +65518,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 41.31,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -65729,7 +65737,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 26.46,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66027,7 +66036,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 74.07,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66237,7 +66247,8 @@
         "CLASS_NAME": "Open spaces with little or no vegetation",
         "SUP_HA": 26.37,
         "fill": "#ccffccff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66411,7 +66422,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 27.81,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66733,7 +66745,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 42.75,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -66979,7 +66992,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 92.34,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67321,7 +67335,8 @@
         "CLASS_NAME": "Heterogeneous agricultural areas",
         "SUP_HA": 50.81,
         "fill": "#ffe6a6ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -67655,7 +67670,8 @@
         "CLASS_NAME": "Heterogeneous agricultural areas",
         "SUP_HA": 2656.03,
         "fill": "#ffe6a6ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -71661,7 +71677,8 @@
         "CLASS_NAME": "Open spaces with little or no vegetation",
         "SUP_HA": 140.67,
         "fill": "#ccffccff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72087,7 +72104,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 30.65,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72257,7 +72275,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 28.08,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72519,7 +72538,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 39.79,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -72789,7 +72809,8 @@
         "CLASS_NAME": "Open spaces with little or no vegetation",
         "SUP_HA": 36,
         "fill": "#ccffccff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73071,7 +73092,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 273.87,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74093,7 +74115,8 @@
         "CLASS_NAME": "Urban fabric",
         "SUP_HA": 50.4,
         "fill": "#ff0000ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74327,7 +74350,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 56.66,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74713,7 +74737,8 @@
         "CLASS_NAME": "Urban fabric",
         "SUP_HA": 103.82,
         "fill": "#ff0000ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -74995,7 +75020,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 34.42,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75173,7 +75199,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 54.41,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75523,7 +75550,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 38.84,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -75881,7 +75909,8 @@
         "CLASS_NAME": "Open spaces with little or no vegetation",
         "SUP_HA": 33.34,
         "fill": "#ccffccff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76079,7 +76108,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 94.05,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76561,7 +76591,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 4258.37,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -91831,7 +91862,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 702.35,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -94953,7 +94985,8 @@
         "CLASS_NAME": "Open spaces with little or no vegetation",
         "SUP_HA": 44.06,
         "fill": "#ccffccff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95351,7 +95384,8 @@
         "CLASS_NAME": "Open spaces with little or no vegetation",
         "SUP_HA": 91.75,
         "fill": "#ccffccff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95737,7 +95771,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 41.67,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -95915,7 +95950,8 @@
         "CLASS_NAME": "Urban fabric",
         "SUP_HA": 61.65,
         "fill": "#ff0000ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96305,7 +96341,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 60.52,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96571,7 +96608,8 @@
         "CLASS_NAME": "Scrub and/or herbaceous vegetation associations",
         "SUP_HA": 38.91,
         "fill": "#a6ff80ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -96753,7 +96791,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 48.02,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97075,7 +97114,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 246.15,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -97669,7 +97709,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 89.33,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -98083,7 +98124,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 209.47,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99129,7 +99171,8 @@
         "CLASS_NAME": "Mine and dump sites",
         "SUP_HA": 40.19,
         "fill": "#a600ccff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -99347,7 +99390,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 79.02,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100005,7 +100049,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 46.4,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100251,7 +100296,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 42.75,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100597,7 +100643,8 @@
         "CLASS_NAME": "Scrub and/or herbaceous vegetation associations",
         "SUP_HA": 31.61,
         "fill": "#a6ff80ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -100787,7 +100834,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 34.83,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101049,7 +101097,8 @@
         "CLASS_NAME": "Scrub and/or herbaceous vegetation associations",
         "SUP_HA": 126.82,
         "fill": "#a6ff80ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101423,7 +101472,8 @@
         "CLASS_NAME": "Urban fabric",
         "SUP_HA": 28.22,
         "fill": "#ff0000ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101581,7 +101631,8 @@
         "CLASS_NAME": "Industrial and commercial units",
         "SUP_HA": 37.98,
         "fill": "#cc4df2ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -101719,7 +101770,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 101.07,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102657,7 +102709,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 27.77,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -102779,7 +102832,8 @@
         "CLASS_NAME": "Open spaces with little or no vegetation",
         "SUP_HA": 123.89,
         "fill": "#ccffccff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -103409,7 +103463,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 226.26,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -104519,7 +104574,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 617.73,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -106709,7 +106765,8 @@
         "CLASS_NAME": "Urban fabric",
         "SUP_HA": 514.13,
         "fill": "#ff0000ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -107895,7 +107952,8 @@
         "CLASS_NAME": "Industrial and commercial units",
         "SUP_HA": 81.41,
         "fill": "#cc4df2ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108125,7 +108183,8 @@
         "CLASS_NAME": "Heterogeneous agricultural areas",
         "SUP_HA": 142.25,
         "fill": "#ffe6a6ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -108579,7 +108638,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 314.19,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110581,7 +110641,8 @@
         "CLASS_NAME": "Industrial and commercial units",
         "SUP_HA": 25.16,
         "fill": "#cc4df2ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -110735,7 +110796,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 32.76,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111045,7 +111107,8 @@
         "CLASS_NAME": "Mine and dump sites",
         "SUP_HA": 31.59,
         "fill": "#a600ccff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111291,7 +111354,8 @@
         "CLASS_NAME": "Open spaces with little or no vegetation",
         "SUP_HA": 25.43,
         "fill": "#ccffccff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -111501,7 +111565,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 117.32,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112291,7 +112356,8 @@
         "CLASS_NAME": "Scrub and/or herbaceous vegetation associations",
         "SUP_HA": 40.22,
         "fill": "#a6ff80ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -112621,7 +112687,8 @@
         "CLASS_NAME": "Scrub and/or herbaceous vegetation associations",
         "SUP_HA": 73.71,
         "fill": "#a6ff80ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113067,7 +113134,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 44.51,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113445,7 +113513,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 26.28,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113663,7 +113732,8 @@
         "CLASS_NAME": "Scrub and/or herbaceous vegetation associations",
         "SUP_HA": 39.38,
         "fill": "#a6ff80ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -113873,7 +113943,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 139.59,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -114791,7 +114862,8 @@
         "CLASS_NAME": "Scrub and/or herbaceous vegetation associations",
         "SUP_HA": 56.16,
         "fill": "#a6ff80ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115125,7 +115197,8 @@
         "CLASS_NAME": "Scrub and/or herbaceous vegetation associations",
         "SUP_HA": 50.45,
         "fill": "#a6ff80ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115407,7 +115480,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 30.11,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115665,7 +115739,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 58.01,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -115983,7 +116058,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 46.26,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -116345,7 +116421,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 110.16,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117039,7 +117116,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 41.45,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117297,7 +117375,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 39.51,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117595,7 +117674,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 40.63,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -117885,7 +117965,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 41.81,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118291,7 +118372,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 29.7,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -118609,7 +118691,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 115.58,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -119719,7 +119802,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 29.39,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120029,7 +120113,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 25.92,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120303,7 +120388,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 26.21,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120633,7 +120719,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 29.75,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -120895,7 +120982,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 42.59,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -121205,7 +121293,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 31.73,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -121403,7 +121492,8 @@
         "CLASS_NAME": "Forests",
         "SUP_HA": 43.39,
         "fill": "#4dff00ff",
-        "stroke-width": 0
+        "stroke-width": 0,
+        "fill-opacity": 0.7
       },
       "geometry": {
         "type": "MultiPolygon",
