@@ -2,20 +2,4 @@ This folder contains the results in [geojson](https://geojson.org/) format  of [
 
 ***Legend***:
 
-
-
-| CLASS_NAME                                      | COLOR                                                      |
-| :---------------------------------------------- | ---------------------------------------------------------- |
-| Forests                                         | <span style="background-color:#4dff00ff">          </span> |
-| Heterogeneous agricultural areas                | <span style="background-color:#ffe6a6ff">          </span> |
-| Industrial and commercial unit                  | <span style="background-color:#cc4df2ff">          </span> |
-| Inland waters                                   | <span style="background-color:#00ccf2ff">          </span> |
-| Mine and dump sites                             | <span style="background-color:#a600ccff">          </span> |
-| Open spaces with little or no vegetation        | <span style="background-color:#ccffccff">          </span> |
-| Scrub and/or herbaceous vegetation associations | <span style="background-color:#a6ff80ff">          </span> |
-| Urban fabric                                    | <span style="background-color:#ff0000ff">          </span> |
-
-
-
-
-
+![legend](C:\Users\Abraham Coiman\Documents\GitHub\lulc_zamora_1986_2016\lulc\geojson\legend.png)
