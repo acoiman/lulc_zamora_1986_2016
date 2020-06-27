@@ -2,4 +2,4 @@ This folder contains the results in [geojson](https://geojson.org/) format  of [
 
 ***Legend***:
 
-![legend](C:\Users\Abraham Coiman\Documents\GitHub\lulc_zamora_1986_2016\lulc\geojson\legend.png)
+![legend](legend.png)
