@@ -1,1 +1,1 @@
-Land use and Land Cover
+This folder contains the results in [shapefile](https://en.wikipedia.org/wiki/Shapefile) and  [geojson](https://geojson.org/) format of [Landsat 8](https://www.usgs.gov/land-resources/nli/landsat/landsat-8) image classification in Zamora municipality, Aragua state, Venezuela, from 1986 to 2016 following the [Corine Land Cove](https://land.copernicus.eu/pan-european/corine-land-cover)r schema.
