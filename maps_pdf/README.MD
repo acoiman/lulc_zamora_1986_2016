@@ -1,1 +1,1 @@
-This folder contains maps in PDF format of [Landsat 8](https://www.usgs.gov/land-resources/nli/landsat/landsat-8) image classification in Zamora municipality, Aragua state, Venezuela, from 1986 to 2016 following the [Corine Land Cove](https://land.copernicus.eu/pan-european/corine-land-cover)r schema.
+This folder contains maps in PDF format of [Landsat](https://landsat.gsfc.nasa.gov/) image classification in Zamora municipality, Aragua state, Venezuela, from 1986 to 2016 following the [Corine Land Cove](https://land.copernicus.eu/pan-european/corine-land-cover)r schema.
