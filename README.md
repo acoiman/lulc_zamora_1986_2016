@@ -1,6 +1,10 @@
 [![DOI](https://zenodo.org/badge/261209006.svg)](https://zenodo.org/badge/latestdoi/261209006)
+[![GitHub issues](https://img.shields.io/github/issues/acoiman/lulc_zamora_1986_2016?style=plastic)](https://github.com/acoiman/lulc_zamora_1986_2016/issues)
+[![GitHub forks](https://img.shields.io/github/forks/acoiman/lulc_zamora_1986_2016?style=plastic)](https://github.com/acoiman/lulc_zamora_1986_2016/network)
+[![GitHub stars](https://img.shields.io/github/stars/acoiman/lulc_zamora_1986_2016?style=plastic)](https://github.com/acoiman/lulc_zamora_1986_2016/stargazers)
+[![GitHub license](https://img.shields.io/github/license/acoiman/lulc_zamora_1986_2016?style=plastic)](https://github.com/acoiman/lulc_zamora_1986_2016/blob/master/LICENSE)
 
-### Shoreline evolution of Valencia lake and land use and land cover changes in Zamora municipality, Aragua state, Venezuela, period 1986-2016
+## Shoreline evolution of Valencia lake and land use and land cover changes in Zamora municipality, Aragua state, Venezuela, period 1986-2016
 
 ------
 
