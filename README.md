@@ -15,7 +15,7 @@ Understanding the current and past state of land use and land cover (LULC) chang
 
 <div id="dot" align='center'>. . . .</div>
 
-This repo consists the code and data of this research article. The content of the folders are as follows:
+This repo consists the code and data of this research article. The content of the folders are is follows:
 
 - [**accuracy_assessment**](https://github.com/acoiman/lulc_zamora_1986_2016/tree/master/accuracy_assessment): contains the input data used to classify the image of the year [2016](https://github.com/acoiman/lulc_zamora_1986_2016/tree/master/lulc/results/2016), as well as the output data resulting from the image classification.
 - [**lulc**](https://github.com/acoiman/lulc_zamora_1986_2016/tree/master/lulc):  contains the results in [shapefile](https://en.wikipedia.org/wiki/Shapefile) and [geojson](https://geojson.org/) format of [Landsat](https://landsat.gsfc.nasa.gov/) image classification in Zamora municipality, Aragua state, Venezuela, from 1986 to 2016 following the [Corine Land Cove](https://land.copernicus.eu/pan-european/corine-land-cover)r schema.
