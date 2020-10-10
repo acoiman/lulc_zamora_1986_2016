@@ -4,6 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/acoiman/lulc_zamora_1986_2016?style=plastic)](https://github.com/acoiman/lulc_zamora_1986_2016/stargazers)
 [![GitHub license](https://img.shields.io/github/license/acoiman/lulc_zamora_1986_2016?style=plastic)](https://github.com/acoiman/lulc_zamora_1986_2016/blob/master/LICENSE)
 [![Twitter](https://shields-staging.herokuapp.com/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Facoiman%2Flulc_zamora_1986_2016)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Facoiman%2Flulc_zamora_1986_2016)
+[![](https://acoiman.github.io/opendata.png)](https://www.cos.io/initiatives/badges)
 
 ## Shoreline evolution of Valencia lake and land use and land cover changes in Zamora municipality, Aragua state, Venezuela, period 1986-2016
 
