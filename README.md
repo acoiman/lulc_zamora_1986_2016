@@ -8,6 +8,8 @@
 
 ![](https://acoiman.github.io/opendata.png | width=50)
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
 ## Shoreline evolution of Valencia lake and land use and land cover changes in Zamora municipality, Aragua state, Venezuela, period 1986-2016
 
 > **Research Article:  https://doi.org/10.30897/ijegeo.734872**
